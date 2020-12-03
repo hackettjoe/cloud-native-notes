@@ -18,4 +18,6 @@ manage deployments in your system)
 - To guarantee independent deployability, we need to ensure our services are loosely coupled—in other words, we need to be able to change one service without having to change anything else
 
 Modeled Around a Business Domain
+- having a 3-tier architecture isn't a bad choice, however it's typically optimized around a group of people/familiarity
+- moving forward software architecture changes and are now grouped around multiple skilled teams to reduce silos
 - 
